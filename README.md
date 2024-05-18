@@ -1,1 +1,2 @@
-# OGG, AVI, FLV doesn't work
+# TODO
+* add an option for downloading a playlist
